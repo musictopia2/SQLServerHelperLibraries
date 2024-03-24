@@ -1,6 +1,4 @@
-﻿using System.Data.Common;
-
-namespace SQLServerHelperLibraries;
+﻿namespace SQLServerHelperLibraries;
 public class CustomSQLServerConnectionClass : ISQLServerConnector
 {
     EnumDatabaseCategory IDbConnector.GetCategory(IDbConnection connection)
