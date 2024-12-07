@@ -4,3 +4,4 @@ global using CommonBasicLibraries.DatabaseHelpers.MiscInterfaces;
 global using Microsoft.Data.SqlClient;
 global using System.Data;
 global using System.Data.Common;
+global using CommonBasicLibraries.CrudRepositoryHelpers;
